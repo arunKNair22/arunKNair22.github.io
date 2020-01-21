@@ -90,6 +90,7 @@ a {
 
 .download-resume-link:hover {
 	background-color: var(--color-next-hover);
+	color: #fff;
 }
 
 a:hover,
@@ -479,6 +480,7 @@ main {
   transition: transform 0.3s;
   transform: scaleX(1);
 }
+
 .projects-link:after {
   content: '';
   position: absolute;
