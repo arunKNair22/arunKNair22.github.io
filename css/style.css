@@ -549,7 +549,7 @@ main {
 
 @media screen and (max-width: 767px) {
 	.about-me {
-		font-size: 6vw;
+		font-size: 5vw;
 	}
 	.ml5 {
 		font-size: 3.5em;
@@ -564,12 +564,12 @@ main {
 		text-align: left;
 	}
 	.about-me {
-		font-size: 4vw;
+		font-size: 2vw;
 	}
 	.ml5 {
 		font-size: 3.5em;
 	}
 	.download-resume-link {
-		font-size: 1.6em;
+		font-size: 1.2em;
 	}
 }
