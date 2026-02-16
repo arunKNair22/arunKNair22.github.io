@@ -1,36 +1,25 @@
-<h1 align="center">Hi 👋, I'm Arun Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 💫 About Me:
+I’m a Regional Manager with 10+ years of experience across BPOs, startups, and web development, including 5+ years specializing in marketing automation and CRM platforms.<br><br>At MarketOne International, I lead teams in India delivering scalable, data-driven solutions using Salesforce Marketing Cloud, Marketo, Pardot, and Eloqua. I focus on execution, team leadership, and aligning technology with real business outcomes.<br><br>I have a strong foundation in customer service and project delivery, which helps me bridge strategy, data, and people. Technically, I’m comfortable working with JavaScript, HTML, CSS, and modern web tools.<br><br>Currently exploring practical applications of AI in marketing automation and revenue operations.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunknair22&label=Profile%20views&color=0e75b6&style=flat" alt="arunknair22" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arunknairr" target="blank"><img src="https://img.shields.io/twitter/follow/arunknairr?logo=twitter&style=for-the-badge" alt="arunknairr" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunknair2226) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArunKNairr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunknair2226@gmail.com) 
 
-- 🌱 I’m currently learning about **Web3, Salesforce Marketing Cloud and Svelte**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arunKNair22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arunKNair22&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunKNair22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available at : [https://arunknair22.github.io/](https://arunknair22.github.io/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💬 Ask me about : **HTML, CSS, JavaScript, jQuery, Responsive Web Layouts**
+---
+[![](https://visitcount.itsvg.in/api?id=arunKNair22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me : **www.linkedin.com/in/arunknair2226**
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arunknair2v) 
 
-- 📄 Know about my experiences [https://github.com/arunKNair22/arunKNair22.github.io/blob/master/resume/Arun-Kumar.pdf](https://github.com/arunKNair22/arunKNair22.github.io/blob/master/resume/Arun-Kumar.pdf)
-
-- ⚡ Fun fact : **I watch a lot of movies and enjoy sharing & creating memes**
-
-<p>Here is my Dev Card that will show you stats about the publications and topics I love to read</p>
-<a href="https://app.daily.dev/ArunKNair"><img src="https://api.daily.dev/devcards/0d9cc27bd5754ad4889252b58a4355f2.png?r=85c" width="400" alt="Arun Kumar's Dev Card"/></a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/arunk_ui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arunk_ui" height="30" width="40" /></a>
-<a href="https://dev.to/arunknair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arunknair" height="30" width="40" /></a>
-<a href="https://twitter.com/arunknairr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunknairr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/arunknair2226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arunknair2226" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aknair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aknair" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunknair22&show_icons=true&locale=en&layout=compact" alt="arunknair22" /></p>
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
